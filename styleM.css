@@ -1,0 +1,45 @@
+
+.menu {
+    flex-basis: 20rem;
+    flex-grow: 1;
+}
+
+.caja10 {
+    margin: auto;
+    padding: auto;
+}
+
+.caja2 {
+    background-color: cornflowerblue;
+    width: 600px;
+    height: 250px;
+    border: 3px solid black;
+    margin: auto;
+    padding: auto;
+}
+.caja3 {
+    background-color: blueviolet;
+    width: 600px;
+    height: 250px;
+    border: 3px solid black;
+    margin: auto;
+    padding: auto;
+} 
+
+.caja4 {
+    background-color: gray;
+    width: 600px;
+    height: 250px;
+    border: 3px solid black;
+    margin: auto;
+    padding: auto;
+} 
+
+.caja5 {
+    background-color: rgba(17, 17, 17, 0.089);
+    width: 600px;
+    height: 250px;
+    border: 3px solid black;
+    margin: auto;
+    padding: auto;
+} 
